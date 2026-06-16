@@ -65,3 +65,6 @@ macos/Flutter/ephemeral/
 
 # Windows
 windows/flutter/ephemeral/
+# Flutter generated
+**/generated_plugin_registrant.*
+**/generated_plugins.cmake
